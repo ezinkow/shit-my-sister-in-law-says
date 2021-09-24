@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import './CssReset.css'
 import SMSILSApp from './SMSILSApp';
 import reportWebVitals from './reportWebVitals';
 
