@@ -7,14 +7,14 @@ import {
 export default function Navbar() {
 
     return (
-        <div className="container homeNavBar">
+        <div className="container">
             <div className="row">
                 <div className="navbar">
                     <div className="col-6">
                         <Link to='/'><h3>Home</h3></Link>
                     </div>
                     <div className="col-6">
-                        <Link to='/statement'><h3>New Post</h3></Link>
+                        <Link to='/statement'><h3>New Ridiculous Shit She Said</h3></Link>
                     </div>
                 </div>
             </div>

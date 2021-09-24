@@ -9,11 +9,6 @@ export default function StatementForm() {
     const [when, onChange] = useState(new Date())
     const [statement, setStatement] = useState('')
 
-    const handleDateChange = event => {
-        // setWhen(event.target.value);
-        console.log(event);
-    };
-
     console.log(when)
     
     function handleStatementChange(event) {
